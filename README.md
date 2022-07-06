@@ -98,4 +98,4 @@ wget -N https://raw.githubusercontents.com/Misaka-blog/XrayR-script/master/insta
 
 ## Stars 增长记录
 
-[![Stargazers over time](https://starchart.cc/Misaka-blog/XrayR.svg)](https://starchart.cc/Misaka-blog/XrayR)
+这是一个备份库
